@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ejercicio3ConvertidorDeTemperatura</string>
+    <string name="convertir">Convertir</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="c">ºC</string>
+    <string name="f">ºF</string>
+    <string name="definicionCentigrados">Históricamente conocido como grado centígrado, es la unidad termométrica cuyo 0 se ubica 0.01 grados por debajo del punto triple del agua y su intensidad calórica equivale a la de kelvin.</string>
+    <string name="definicionFahrenheit">Es una escala de temperatura propuesta por el físico e ingeniero polaco Daniel Gabriel Fahrenheit en 1724. La escala establece como las temperaturas de congelación y ebullición del agua, 32 °F y 212 °F, respectivamente.</string>
+    <string name="atras">Atras</string>
+    <string name="textview">TextView</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="centigrados">Centigrados</string>
+</resources>
